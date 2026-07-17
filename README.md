@@ -1,1 +1,2 @@
-# Abdulkalam_july_aiml_python_mini_project
+# Abdulkalam_july_AIML_training
+Python_mini_project
